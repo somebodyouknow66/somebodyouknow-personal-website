@@ -1,5 +1,3 @@
-# Macondo
-
 My personal website and developer portfolio (idk if i should call this a portfolio, maybe not).
 
 I built this because I wanted a personal website that actually felt personal, and the previous one was cringe, if you know you know.
