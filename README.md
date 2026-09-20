@@ -224,8 +224,10 @@ From somebodyouknow!
 
 
 ## Resources
-https://codepen.io/tahazsh/pen/YzbaEJq
-https://codepen.io/sarazond/pen/LYGbwj
-https://fonts.google.com/specimen/Coming+Soon
-https://github.com/yobert/catify
-https://www.youtube.com/watch?v=r6tH55syq0o 
+- https://codepen.io/tahazsh/pen/YzbaEJq
+- https://codepen.io/sarazond/pen/LYGbwj
+- https://fonts.google.com/specimen/Coming+Soon
+- https://github.com/yobert/catify
+- https://www.youtube.com/watch?v=r6tH55syq0o 
+
+
