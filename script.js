@@ -60,7 +60,7 @@ const modalContents = {
           },
           {
             name: "Hack Club",
-            desc: "Hack Clubber · 2023 – 2024",
+            desc: "Hack Clubber · 2026",
             tag: "not a job, m just a participant",
           },
         ],
@@ -82,6 +82,11 @@ const modalContents = {
             name: "thanks to everyone",
             desc: "thanks to everyone who have made me who i am, i have changed so much across the years. This has been the greatest year of my life!! - 2026",
             tag: "something",
+          },
+            {
+            name: "powerful method",
+            desc: "reflections on life",
+            tag: "reflect",
           },
         ],
       },
